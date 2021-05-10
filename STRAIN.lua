@@ -2524,7 +2524,7 @@ Text = [[
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = 'قناه السوࢪس 💘',url="https://t.me/sScSc"},
+{text = 'قناه السوࢪس 💘',url="https://t.me/sTRaiNTEaM"},
 },
 {
 {text = 'لتنصيب السوࢪس 💘',url="https://t.me/sTRaiNTEaM/2"},
